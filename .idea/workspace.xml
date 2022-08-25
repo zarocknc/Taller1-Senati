@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e51270ab-122c-4627-8748-e46678a02049" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ejer01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ejer02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ejer03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ejer04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ejer05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ejer06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ejer07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ejer08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ejer09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ejer10.java" afterDir="false" />
+    <list default="true" id="e51270ab-122c-4627-8748-e46678a02049" name="Changes" comment="The Amazin Nicolas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +99,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661433691399</updated>
     </task>
+    <task id="LOCAL-00001" summary="The Amazin Nicolas">
+      <created>1661443985849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661443985849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The Amazin Nicolas" />
+    <option name="LAST_COMMIT_MESSAGE" value="The Amazin Nicolas" />
   </component>
 </project>
