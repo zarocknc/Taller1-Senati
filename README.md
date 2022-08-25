@@ -1,7 +1,6 @@
 # Taller1-Senati
-#### Hola mis king kone 
+#### Hola mis kings
 Aqui el codigo pes
-- Esta en: 
-`src/main`
-# TODO:
-- agregare el pseint en unos min
+- Codigo Java: `src/main`
+- PseInt: `PseInt`
+
